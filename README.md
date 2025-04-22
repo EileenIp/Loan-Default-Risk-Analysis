@@ -14,13 +14,7 @@ This will ensure that the consumers capable of repaying the loan are not rejecte
 
 ## CONCLUSION
 
-- Young males with lower secondary education and of lower income group and staying with parents or in a rented house, applying for low-range cash contract, should be denied.
-- Females are likely to repay but not if they are on maternity leave. Hence, bank can reduce the loan amount for female applicants who are on maternity leave.
-- Since people taking cash loans for repairs and urgent needs are more likely to default, bank can refuse them.
-- Since the people who have unused offers are more likely to default even though they have comparatively high total income, they can be offered loan at a higher interest rate.
-- Banks can target businessmen, students and working class people with academic degree/ higher education as they have no difficulty in repayment.
-- Bank can also approve loans taken on purpose for buying home or garage as there less chances of defaulting. 
-
+In the dashboard, you can also click on filters for Purpose, Grade, and Verification Status to explore bank loan data for the year 2021. This includes Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Average Debt-to-Income Ratio (DTI), along with their monthly averages and monthly growth rates. Additionally, you can explore a summary of monthly data, bank loan details for each state in the U.S., loan terms, borrower's years of employment, loan purposes, and the homeowner status of the borrower. When clicking on these diagrams, the data will interactively change across all diagrams and tables.
 
 
 

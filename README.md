@@ -2,6 +2,10 @@
 
 ---
 
+![EDA Dashboard](https://github.com/EileenIp/Loan-Default-Risk-Analysis/blob/main/EDA%20Dashboard.png)
+
+---
+
 ## Problem Overview
 
 This case study demonstrates how exploratory data analysis (EDA) can be applied in a real-world business context, specifically in banking and financial services. The goal is to leverage data analytics to assess and mitigate lending risks, ensuring that financial institutions minimize losses while approving loans responsibly.
